@@ -1,5 +1,5 @@
 import {Navigate,Route,Routes} from 'react-router-dom'
-import SignUp from "./pages/signup/SignUp.jsx"
+import SignUp from "./pages/signup/Signup.jsx"
 import Login from './pages/login/Login'
 import './App.css'
 import { Toaster } from 'react-hot-toast'
